@@ -13,7 +13,7 @@ Retrieve a list of character kills and deaths.
                 <th>Description</th>
             </tr>
             <tr>
-                <td>characterID</td>
+                <td>userID</td>
                 <td><strong>long</strong></td>
                 <td>ID of character</td>
             </tr>
